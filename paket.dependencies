@@ -1,0 +1,15 @@
+source https://www.nuget.org/api/v2
+
+framework: netcoreapp3.1, netstandard2.0
+
+nuget FSharp.Core
+
+nuget System.Data.Odbc
+
+
+nuget Microsoft.EntityFrameworkCore
+nuget Microsoft.EntityFrameworkCore.Design
+nuget Microsoft.EntityFrameworkCore.SqlServer
+
+
+
