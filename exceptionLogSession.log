@@ -1,0 +1,1228 @@
+[2020-07-21 10:19:16Z - INFO]: Initialize service.
+[2020-07-21 10:19:17Z - INFO]: Security Group with ElevatedGlobalReadRights is XXXXXXXXXXXXXXXXXXXXXXX
+[2020-07-21 10:19:17Z - INFO]: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'XXXXXXXXXXXXXXXXXXXXXX' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2020-07-21 10:19:17Z - INFO]: Microsoft.AspNetCore.Server.HttpSys.HttpSysListener - Start 
+[2020-07-21 10:19:17Z - INFO]: Microsoft.AspNetCore.Server.HttpSys.HttpSysListener - Listening on prefix: http://localhost:5672/ 
+[2020-07-21 10:20:21Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:20:21Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:21Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:21Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:22Z - INFO]: Added 65ff71c9-6956-4e5e-a891-068996e527f7 to the queue.
+[2020-07-21 10:20:22Z - VRBS]: Checking queue. 1
+[2020-07-21 10:20:22Z - VRBS]: Found work..
+[2020-07-21 10:20:22Z - VRBS]: Doing work.
+[2020-07-21 10:20:22Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:20:22Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:22Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 575.5082ms 200  
+[2020-07-21 10:20:22Z - VRBS]: XXXXX
+[2020-07-21 10:20:22Z - VRBS]: Executer StartAsync
+[2020-07-21 10:20:22Z - VRBS]: Creating new Run Object
+[2020-07-21 10:20:23Z - VRBS]: Added Run and Config
+[2020-07-21 10:20:24Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:20:24Z - VRBS]: Started Generator
+[2020-07-21 10:20:24Z - VRBS]: Started Processor
+[2020-07-21 10:20:24Z - VRBS]: Finisched Generator
+[2020-07-21 10:20:24Z - VRBS]: Finisched Processor
+[2020-07-21 10:20:24Z - VRBS]: Done work. 65ff71c9-6956-4e5e-a891-068996e527f7
+[2020-07-21 10:20:28Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:20:28Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:28Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:28Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:28Z - INFO]: Added 5a2630e7-d687-4008-bb96-eab0d5ec7180 to the queue.
+[2020-07-21 10:20:28Z - VRBS]: Checking queue. 2
+[2020-07-21 10:20:28Z - VRBS]: Found work..
+[2020-07-21 10:20:28Z - VRBS]: Doing work.
+[2020-07-21 10:20:28Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:20:28Z - VRBS]: XXXX
+[2020-07-21 10:20:28Z - VRBS]: Executer StartAsync
+[2020-07-21 10:20:28Z - VRBS]: Creating new Run Object
+[2020-07-21 10:20:28Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:28Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 13.4688ms 200  
+[2020-07-21 10:20:28Z - VRBS]: Added Run and Config
+[2020-07-21 10:20:28Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:20:28Z - VRBS]: Started Generator
+[2020-07-21 10:20:28Z - VRBS]: Started Processor
+[2020-07-21 10:20:28Z - VRBS]: Finisched Generator
+[2020-07-21 10:20:28Z - VRBS]: Finisched Processor
+[2020-07-21 10:20:28Z - VRBS]: Done work. 5a2630e7-d687-4008-bb96-eab0d5ec7180
+[2020-07-21 10:20:29Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/5a2630e7-d687-4008-bb96-eab0d5ec7180   
+[2020-07-21 10:20:29Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:29Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:29Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:20:29Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:20:29Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 41.6135ms 200  
+[2020-07-21 10:20:31Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:20:31Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:31Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:31Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:31Z - INFO]: Added 3ac21630-9480-4f00-b060-52e492fa399f to the queue.
+[2020-07-21 10:20:31Z - VRBS]: Checking queue. 3
+[2020-07-21 10:20:31Z - VRBS]: Found work..
+[2020-07-21 10:20:31Z - VRBS]: Doing work.
+[2020-07-21 10:20:31Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:20:31Z - VRBS]: XXXX
+[2020-07-21 10:20:31Z - VRBS]: Executer StartAsync
+[2020-07-21 10:20:31Z - VRBS]: Creating new Run Object
+[2020-07-21 10:20:31Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:31Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.8346ms 200  
+[2020-07-21 10:20:31Z - VRBS]: Added Run and Config
+[2020-07-21 10:20:31Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:20:31Z - VRBS]: Started Generator
+[2020-07-21 10:20:31Z - VRBS]: Started Processor
+[2020-07-21 10:20:31Z - VRBS]: Finisched Generator
+[2020-07-21 10:20:31Z - VRBS]: Finisched Processor
+[2020-07-21 10:20:31Z - VRBS]: Done work. 3ac21630-9480-4f00-b060-52e492fa399f
+[2020-07-21 10:20:32Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:20:32Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:32Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:32Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:32Z - INFO]: Added 01880c77-3034-4e7d-9835-67da77c951a9 to the queue.
+[2020-07-21 10:20:32Z - VRBS]: Checking queue. 4
+[2020-07-21 10:20:32Z - VRBS]: Found work..
+[2020-07-21 10:20:32Z - VRBS]: Doing work.
+[2020-07-21 10:20:32Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:20:32Z - VRBS]: XXXX
+[2020-07-21 10:20:32Z - VRBS]: Executer StartAsync
+[2020-07-21 10:20:32Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:32Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 12.7213ms 200  
+[2020-07-21 10:20:32Z - VRBS]: Creating new Run Object
+[2020-07-21 10:20:32Z - VRBS]: Added Run and Config
+[2020-07-21 10:20:32Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:20:32Z - VRBS]: Started Generator
+[2020-07-21 10:20:32Z - VRBS]: Started Processor
+[2020-07-21 10:20:32Z - VRBS]: Finisched Generator
+[2020-07-21 10:20:32Z - VRBS]: Finisched Processor
+[2020-07-21 10:20:32Z - VRBS]: Done work. 01880c77-3034-4e7d-9835-67da77c951a9
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/01880c77-3034-4e7d-9835-67da77c951a9   
+[2020-07-21 10:20:46Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 5.2754ms 200  
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:20:46Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:46Z - INFO]: Added a03062f2-3bc7-45e4-b78a-82c34b91dbd5 to the queue.
+[2020-07-21 10:20:46Z - VRBS]: Checking queue. 5
+[2020-07-21 10:20:46Z - VRBS]: Found work..
+[2020-07-21 10:20:46Z - VRBS]: Doing work.
+[2020-07-21 10:20:46Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:20:46Z - VRBS]: XXXX
+[2020-07-21 10:20:46Z - VRBS]: Executer StartAsync
+[2020-07-21 10:20:46Z - VRBS]: Creating new Run Object
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:20:46Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.341ms 200  
+[2020-07-21 10:20:46Z - VRBS]: Added Run and Config
+[2020-07-21 10:20:46Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:20:46Z - VRBS]: Started Generator
+[2020-07-21 10:20:46Z - VRBS]: Started Processor
+[2020-07-21 10:20:46Z - VRBS]: Finisched Generator
+[2020-07-21 10:20:47Z - VRBS]: Finisched Processor
+[2020-07-21 10:20:47Z - VRBS]: Done work. a03062f2-3bc7-45e4-b78a-82c34b91dbd5
+[2020-07-21 10:21:09Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:21:09Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:21:09Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:21:09Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:21:09Z - INFO]: Added e2d0c339-d7f7-4e13-8997-9bba1cfdf4f1 to the queue.
+[2020-07-21 10:21:09Z - VRBS]: Checking queue. 6
+[2020-07-21 10:21:09Z - VRBS]: Found work..
+[2020-07-21 10:21:09Z - VRBS]: Doing work.
+[2020-07-21 10:21:09Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:21:09Z - VRBS]: XXXX
+[2020-07-21 10:21:09Z - VRBS]: Executer StartAsync
+[2020-07-21 10:21:09Z - VRBS]: Creating new Run Object
+[2020-07-21 10:21:09Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:21:09Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.6749ms 200  
+[2020-07-21 10:21:09Z - VRBS]: Added Run and Config
+[2020-07-21 10:21:09Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:21:09Z - VRBS]: Started Generator
+[2020-07-21 10:21:09Z - VRBS]: Started Processor
+[2020-07-21 10:21:09Z - VRBS]: Finisched Generator
+[2020-07-21 10:21:09Z - VRBS]: Finisched Processor
+[2020-07-21 10:21:09Z - VRBS]: Done work. e2d0c339-d7f7-4e13-8997-9bba1cfdf4f1
+[2020-07-21 10:21:45Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3106 
+[2020-07-21 10:21:45Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:21:45Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:21:45Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:21:45Z - INFO]: Added 921c5aa0-5b9a-4a88-b59a-b285106039e3 to the queue.
+[2020-07-21 10:21:45Z - VRBS]: Checking queue. 7
+[2020-07-21 10:21:45Z - VRBS]: Found work..
+[2020-07-21 10:21:45Z - VRBS]: Doing work.
+[2020-07-21 10:21:45Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:21:45Z - VRBS]: XXXX
+[2020-07-21 10:21:45Z - VRBS]: Executer StartAsync
+[2020-07-21 10:21:45Z - VRBS]: Creating new Run Object
+[2020-07-21 10:21:45Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:21:45Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.4599ms 200  
+[2020-07-21 10:21:45Z - VRBS]: Added Run and Config
+[2020-07-21 10:21:45Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:21:45Z - VRBS]: Started Generator
+[2020-07-21 10:21:45Z - VRBS]: Started Processor
+[2020-07-21 10:21:45Z - VRBS]: Finisched Generator
+[2020-07-21 10:21:45Z - VRBS]: Finisched Processor
+[2020-07-21 10:21:45Z - VRBS]: Done work. 921c5aa0-5b9a-4a88-b59a-b285106039e3
+[2020-07-21 10:24:59Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3105 
+[2020-07-21 10:24:59Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:24:59Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:24:59Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:24:59Z - INFO]: Added 48497de4-3a99-4f31-9c08-631d8f646689 to the queue.
+[2020-07-21 10:24:59Z - VRBS]: Checking queue. 8
+[2020-07-21 10:24:59Z - VRBS]: Found work..
+[2020-07-21 10:24:59Z - VRBS]: Doing work.
+[2020-07-21 10:24:59Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:24:59Z - VRBS]: XXXX
+[2020-07-21 10:24:59Z - VRBS]: Executer StartAsync
+[2020-07-21 10:24:59Z - VRBS]: Creating new Run Object
+[2020-07-21 10:24:59Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:24:59Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 18.7024ms 200  
+[2020-07-21 10:24:59Z - VRBS]: Added Run and Config
+[2020-07-21 10:24:59Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:24:59Z - VRBS]: Started Generator
+[2020-07-21 10:24:59Z - VRBS]: Started Processor
+[2020-07-21 10:24:59Z - VRBS]: Finisched Generator
+[2020-07-21 10:24:59Z - VRBS]: Finisched Processor
+[2020-07-21 10:24:59Z - VRBS]: Done work. 48497de4-3a99-4f31-9c08-631d8f646689
+[2020-07-21 10:32:03Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/48497de4-3a99-4f31-9c08-631d8f646689   
+[2020-07-21 10:32:03Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:32:03Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:32:03Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:32:03Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-21 10:32:03Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.1751ms 200  
+[2020-07-21 10:32:05Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3120 
+[2020-07-21 10:32:05Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-21 10:32:05Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-21 10:32:05Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-21 10:32:05Z - INFO]: Added 68cb78c2-7ad2-4773-b064-87f165e2a788 to the queue.
+[2020-07-21 10:32:05Z - VRBS]: Checking queue. 9
+[2020-07-21 10:32:05Z - VRBS]: Found work..
+[2020-07-21 10:32:05Z - VRBS]: Doing work.
+[2020-07-21 10:32:05Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-21 10:32:05Z - VRBS]: XXXX
+[2020-07-21 10:32:05Z - VRBS]: Executer StartAsync
+[2020-07-21 10:32:05Z - VRBS]: Creating new Run Object
+[2020-07-21 10:32:05Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-21 10:32:05Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10.4145ms 200  
+[2020-07-21 10:32:05Z - VRBS]: Added Run and Config
+[2020-07-21 10:32:05Z - VRBS]: Cleaned Up Workerlist
+[2020-07-21 10:32:05Z - VRBS]: Started Generator
+[2020-07-21 10:32:05Z - VRBS]: Started Processor
+[2020-07-21 10:32:05Z - VRBS]: Finisched Generator
+[2020-07-21 10:32:05Z - VRBS]: Finisched Processor
+[2020-07-21 10:32:05Z - VRBS]: Done work. 68cb78c2-7ad2-4773-b064-87f165e2a788
+[2020-07-22 09:29:52Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3287 
+[2020-07-22 09:29:52Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 09:29:52Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 09:29:52Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 09:29:52Z - INFO]: Added 81f6e012-52e0-4994-90e3-e0c5ee48f424 to the queue.
+[2020-07-22 09:29:52Z - VRBS]: Checking queue. 10
+[2020-07-22 09:29:52Z - VRBS]: Found work..
+[2020-07-22 09:29:52Z - VRBS]: Doing work.
+[2020-07-22 09:29:52Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 09:29:52Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:29:52Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 09:29:52Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 09:29:52Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:29:52Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 09:29:52Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:29:52Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 29.5126ms 200  
+[2020-07-22 09:29:52Z - VRBS]: Could not add 'XXXXXXX'
+[2020-07-22 09:29:52Z - VRBS]: XXXX
+[2020-07-22 09:29:52Z - VRBS]: Executer StartAsync
+[2020-07-22 09:29:52Z - VRBS]: Creating new Run Object
+[2020-07-22 09:29:53Z - VRBS]: Added Run and Config
+[2020-07-22 09:29:53Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 09:29:53Z - VRBS]: Started Generator
+[2020-07-22 09:29:53Z - VRBS]: Started Processor
+[2020-07-22 09:29:53Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 09:29:53Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:53Z - VRBS]: Calculating...
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:54Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - VRBS]: Saving calculation...
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - VRBS]: Saving ...
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - VRBS]: @7
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:29:55Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:30:05Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 09:30:05Z - VRBS]: Finisched Generator
+[2020-07-22 09:30:25Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,008ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 09:30:25Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11
+[2020-07-22 09:30:57Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,001ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 09:30:57Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11
+[2020-07-22 09:30:57Z - VRBS]: Finisched Processor
+[2020-07-22 09:30:57Z - VRBS]: Done work. 81f6e012-52e0-4994-90e3-e0c5ee48f424
+[2020-07-22 09:31:23Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3212 
+[2020-07-22 09:31:23Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 09:31:23Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 09:31:23Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 09:31:23Z - INFO]: Added db2d36cf-ea1e-4747-b5a9-c6c9dd33d61a to the queue.
+[2020-07-22 09:31:23Z - VRBS]: Checking queue. 11
+[2020-07-22 09:31:23Z - VRBS]: Found work..
+[2020-07-22 09:31:23Z - VRBS]: Doing work.
+[2020-07-22 09:31:23Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 09:31:23Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:31:23Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 09:31:23Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:31:23Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 09:31:23Z - VRBS]: XXXX
+[2020-07-22 09:31:23Z - VRBS]: Executer StartAsync
+[2020-07-22 09:31:23Z - VRBS]: Creating new Run Object
+[2020-07-22 09:31:23Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 09:31:23Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.6407ms 200  
+[2020-07-22 09:31:23Z - VRBS]: Added Run and Config
+[2020-07-22 09:31:23Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 09:31:23Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - VRBS]: Started Generator
+[2020-07-22 09:31:23Z - VRBS]: Started Processor
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 09:31:23Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:23Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - VRBS]: Calculating...
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:24Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - VRBS]: Saving calculation...
+[2020-07-22 09:31:25Z - VRBS]: Saving ...
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:25Z - VRBS]: @7
+[2020-07-22 09:31:25Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:26Z - INFO]: Enumeration of files for dir 'XXXXXXX' failed. Access denied.
+[2020-07-22 09:31:35Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 09:31:35Z - VRBS]: Finisched Generator
+[2020-07-22 09:31:55Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,000ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 09:31:55Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11
+[2020-07-22 09:32:27Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,001ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 09:32:27Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:2ae00cf5-761f-4187-92ed-8adc82f93306
+Error Number:-2,State:0,Class:11
+[2020-07-22 09:32:28Z - VRBS]: Finisched Processor
+[2020-07-22 09:32:28Z - VRBS]: Done work. db2d36cf-ea1e-4747-b5a9-c6c9dd33d61a
+[2020-07-22 09:43:37Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/db2d36cf-ea1e-4747-b5a9-c6c9dd33d61a   
+[2020-07-22 09:43:37Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 09:43:37Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 09:43:37Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 09:43:37Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 09:43:37Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 8.63ms 200  
+[2020-07-22 09:46:41Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3192 
+[2020-07-22 09:46:41Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 09:46:41Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 09:46:41Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 09:46:41Z - INFO]: Added 3376d94d-a2d7-42bb-87d5-4666233b2328 to the queue.
+[2020-07-22 09:46:41Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 09:46:41Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 9.4533ms 200  
+[2020-07-22 09:46:41Z - VRBS]: Checking queue. 12
+[2020-07-22 09:46:41Z - VRBS]: Found work..
+[2020-07-22 09:46:41Z - VRBS]: Doing work.
+[2020-07-22 09:46:41Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 09:46:41Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 09:46:41Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 09:46:41Z - VRBS]: XXXX
+[2020-07-22 09:46:41Z - VRBS]: Executer StartAsync
+[2020-07-22 09:46:41Z - VRBS]: Creating new Run Object
+[2020-07-22 09:46:41Z - VRBS]: Added Run and Config
+[2020-07-22 09:46:41Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 09:46:41Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 09:46:41Z - VRBS]: Started Generator
+[2020-07-22 09:46:41Z - VRBS]: Started Processor
+[2020-07-22 09:46:41Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 09:46:41Z - VRBS]: Finisched Generator
+[2020-07-22 09:46:41Z - VRBS]: Calculating...
+[2020-07-22 09:46:42Z - WARN]: Error loading file 'XXXXXXX' with error: System.IO.FileFormatException: File contains corrupted data.
+   at System.IO.Packaging.ZipPackage..ctor(Stream s, FileMode packageFileMode, FileAccess packageFileAccess)
+   at System.IO.Packaging.Package.Open(Stream stream, FileMode packageMode, FileAccess packageAccess)
+   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(Stream stream, Boolean readWriteMode)
+   at DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(Stream stream, Boolean isEditable, OpenSettings openSettings)
+   at DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(Stream stream, Boolean isEditable)
+   at Excel.Generator.Internals.loadFile(FileInfo file).
+[2020-07-22 09:46:42Z - VRBS]: Saving calculation...
+[2020-07-22 09:46:42Z - VRBS]: Saving ...
+[2020-07-22 09:46:43Z - VRBS]: @44
+[2020-07-22 09:47:13Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,001ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 09:47:13Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:cad1918b-d5fe-40cb-8203-b65053a410d4
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:cad1918b-d5fe-40cb-8203-b65053a410d4
+Error Number:-2,State:0,Class:11
+[2020-07-22 09:47:13Z - VRBS]: Finisched Processor
+[2020-07-22 09:47:13Z - VRBS]: Done work. 3376d94d-a2d7-42bb-87d5-4666233b2328
+[2020-07-22 11:22:43Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3201 
+[2020-07-22 11:22:43Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 11:22:43Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 11:22:43Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 11:22:43Z - INFO]: Added b73d0d03-f83a-430b-83fa-01094a1b2da0 to the queue.
+[2020-07-22 11:22:43Z - VRBS]: Checking queue. 13
+[2020-07-22 11:22:43Z - VRBS]: Found work..
+[2020-07-22 11:22:43Z - VRBS]: Doing work.
+[2020-07-22 11:22:43Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 11:22:43Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 11:22:43Z - VRBS]: Could not add 'XXXXXXX'
+[2020-07-22 11:22:43Z - VRBS]: XXXX
+[2020-07-22 11:22:43Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 11:22:43Z - VRBS]: Executer StartAsync
+[2020-07-22 11:22:43Z - VRBS]: Creating new Run Object
+[2020-07-22 11:22:43Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 12.9708ms 200  
+[2020-07-22 11:22:43Z - VRBS]: Added Run and Config
+[2020-07-22 11:22:43Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 11:22:43Z - VRBS]: Started Generator
+[2020-07-22 11:22:43Z - VRBS]: Started Processor
+[2020-07-22 11:22:43Z - VRBS]: Finisched Generator
+[2020-07-22 11:22:45Z - VRBS]: Finisched Processor
+[2020-07-22 11:22:45Z - VRBS]: Done work. b73d0d03-f83a-430b-83fa-01094a1b2da0
+[2020-07-22 11:49:31Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3186 
+[2020-07-22 11:49:31Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 11:49:31Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 11:49:31Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 11:49:31Z - INFO]: Added c3972b3d-94d8-45eb-a54b-59cc538a4a12 to the queue.
+[2020-07-22 11:49:31Z - VRBS]: Checking queue. 14
+[2020-07-22 11:49:31Z - VRBS]: Found work..
+[2020-07-22 11:49:31Z - VRBS]: Doing work.
+[2020-07-22 11:49:31Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 11:49:31Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 11:49:31Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 11:49:31Z - VRBS]: XXXX
+[2020-07-22 11:49:31Z - VRBS]: Executer StartAsync
+[2020-07-22 11:49:31Z - VRBS]: Creating new Run Object
+[2020-07-22 11:49:31Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 11:49:31Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 13.0918ms 200  
+[2020-07-22 11:49:31Z - VRBS]: Added Run and Config
+[2020-07-22 11:49:31Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 11:49:31Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 11:49:31Z - VRBS]: Started Generator
+[2020-07-22 11:49:31Z - VRBS]: Started Processor
+[2020-07-22 11:49:32Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 11:49:32Z - VRBS]: Finisched Generator
+[2020-07-22 11:49:36Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3186 
+[2020-07-22 11:49:36Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 11:49:36Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 11:49:36Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 11:49:36Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 11:49:36Z - VRBS]: Calculating...
+[2020-07-22 11:49:36Z - ERRR]: Microsoft.AspNetCore.Server.HttpSys.MessagePump - ProcessRequestAsync - System.Net.Http.HttpRequestException: No more than one scan at a time.
+   at Service.Web.onfigService.onfigServiceScanPostHandler(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Service.Web.Middleware.AccessLoggerMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.HttpSys.MessagePump.ProcessRequestAsync(Object requestContextObj)
+   at Microsoft.AspNetCore.Server.HttpSys.MessagePump.ProcessRequestAsync(Object requestContextObj)
+[2020-07-22 11:49:36Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 17.4559ms 200  
+[2020-07-22 11:49:36Z - VRBS]: Saving calculation...
+[2020-07-22 11:49:36Z - VRBS]: Saving ...
+[2020-07-22 11:49:41Z - VRBS]: @1000
+[2020-07-22 11:50:11Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,002ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 11:50:11Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:7ac108c8-110e-430f-9213-084d0a833e4c
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:7ac108c8-110e-430f-9213-084d0a833e4c
+Error Number:-2,State:0,Class:11
+[2020-07-22 11:50:11Z - VRBS]: Finisched Processor
+[2020-07-22 11:50:11Z - VRBS]: Done work. c3972b3d-94d8-45eb-a54b-59cc538a4a12
+[2020-07-22 12:11:58Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c3972b3d-94d8-45eb-a54b-59cc538a4a12   
+[2020-07-22 12:11:58Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:11:58Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:11:58Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:11:58Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:11:58Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 4.4544ms 200  
+[2020-07-22 12:12:01Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c3972b3d-94d8-45eb-a54b-59cc538a4a12   
+[2020-07-22 12:12:01Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:12:01Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:12:01Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:01Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:01Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.909ms 200  
+[2020-07-22 12:12:03Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c3972b3d-94d8-45eb-a54b-59cc538a4a12   
+[2020-07-22 12:12:03Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:12:03Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:12:03Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:03Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:03Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.7061ms 200  
+[2020-07-22 12:12:26Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c3972b3d-94d8-45eb-a54b-59cc538a4a12   
+[2020-07-22 12:12:26Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:12:26Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:12:26Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:26Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:26Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.01ms 200  
+[2020-07-22 12:12:36Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/stop   
+[2020-07-22 12:12:36Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:12:36Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:12:36Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/stop HTTP: GET' 
+[2020-07-22 12:12:36Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/stop HTTP: GET' 
+[2020-07-22 12:12:36Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.8555ms 200  
+[2020-07-22 12:12:38Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c3972b3d-94d8-45eb-a54b-59cc538a4a12   
+[2020-07-22 12:12:38Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:12:38Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:12:38Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:38Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:12:38Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.8076ms 200  
+[2020-07-22 12:14:04Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 POST http://localhost:5672/config application/json; charset=utf-8 3188 
+[2020-07-22 12:14:04Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:04Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:04Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config HTTP: POST' 
+[2020-07-22 12:14:04Z - INFO]: Added c2ca230b-7fde-4fc4-bf74-2e837e9e23af to the queue.
+[2020-07-22 12:14:04Z - VRBS]: Checking queue. 15
+[2020-07-22 12:14:04Z - VRBS]: Found work..
+[2020-07-22 12:14:04Z - VRBS]: Doing work.
+[2020-07-22 12:14:04Z - VRBS]: Starting Generator and Processor Tasks
+[2020-07-22 12:14:04Z - VRBS]: Try adding 'XXXXXXX'
+[2020-07-22 12:14:04Z - VRBS]: Added 'XXXXXXX'
+[2020-07-22 12:14:04Z - VRBS]: XXXX
+[2020-07-22 12:14:04Z - VRBS]: Executer StartAsync
+[2020-07-22 12:14:04Z - VRBS]: Creating new Run Object
+[2020-07-22 12:14:04Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config HTTP: POST' 
+[2020-07-22 12:14:04Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 12.0953ms 200  
+[2020-07-22 12:14:04Z - VRBS]: Added Run and Config
+[2020-07-22 12:14:04Z - VRBS]: Cleaned Up Workerlist
+[2020-07-22 12:14:04Z - VRBS]: Starting crawl of directory 'XXXXXXX'.
+[2020-07-22 12:14:04Z - VRBS]: Started Generator
+[2020-07-22 12:14:04Z - VRBS]: Started Processor
+[2020-07-22 12:14:04Z - VRBS]: Crawl of dir 'XXXXXXX' completed.
+[2020-07-22 12:14:05Z - VRBS]: Finisched Generator
+[2020-07-22 12:14:06Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:06Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:06Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:06Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:06Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:06Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.7047ms 200  
+[2020-07-22 12:14:06Z - VRBS]: Calculating...
+[2020-07-22 12:14:07Z - VRBS]: Saving calculation...
+[2020-07-22 12:14:07Z - VRBS]: Saving ...
+[2020-07-22 12:14:09Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:09Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:09Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:09Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:09Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:09Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.0557ms 200  
+[2020-07-22 12:14:10Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:10Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:10Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:10Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:10Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:10Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.6684ms 200  
+[2020-07-22 12:14:10Z - VRBS]: @1000
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:11Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 3.0761ms 200  
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:11Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:11Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.5264ms 200  
+[2020-07-22 12:14:12Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:12Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:12Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:12Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:12Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:12Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8753ms 200  
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:13Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8757ms 200  
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:13Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.9451ms 200  
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:13Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8683ms 200  
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:13Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:13Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 2.2742ms 200  
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:14Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8441ms 200  
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:14Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8222ms 200  
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:14Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8264ms 200  
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:14Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8171ms 200  
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:14Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:14Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.7985ms 200  
+[2020-07-22 12:14:16Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:16Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:16Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:16Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:16Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:16Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.778ms 200  
+[2020-07-22 12:14:18Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:18Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:18Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:18Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:18Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:18Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.7682ms 200  
+[2020-07-22 12:14:20Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:20Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:20Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:20Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:20Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:20Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.8678ms 200  
+[2020-07-22 12:14:40Z - ERRR]: Microsoft.EntityFrameworkCore.Database.Command - Failed executing DbCommand (30,001ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(@__p_0) [w].[Id], [w].[Extension], [w].[Fullname], [w].[Length], [w].[State], [w].[Timestamp]
+FROM [WorkItems] AS [w]
+WHERE [w].[State] = 0 - 
+[2020-07-22 12:14:40Z - ERRR]: Microsoft.EntityFrameworkCore.Query - An exception occurred while iterating over the results of a query for context type 'Model.SqlserverContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:f393a2f8-3272-44d2-9ea9-aad5d31a8eca
+Error Number:-2,State:0,Class:11 - Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:f393a2f8-3272-44d2-9ea9-aad5d31a8eca
+Error Number:-2,State:0,Class:11
+[2020-07-22 12:14:40Z - VRBS]: Finisched Processor
+[2020-07-22 12:14:40Z - VRBS]: Done work. c2ca230b-7fde-4fc4-bf74-2e837e9e23af
+[2020-07-22 12:14:51Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:5672/config/status/c2ca230b-7fde-4fc4-bf74-2e837e9e23af   
+[2020-07-22 12:14:51Z - INFO]: User 'XXXXXXXXXXXXXX' trying to access the service.
+[2020-07-22 12:14:51Z - INFO]: Microsoft.AspNetCore.Authorization.DefaultAuthorizationService - Authorization was successful. 
+[2020-07-22 12:14:51Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:51Z - INFO]: Microsoft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint '/config/status/{guid} HTTP: GET' 
+[2020-07-22 12:14:51Z - INFO]: Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1.9879ms 200  
